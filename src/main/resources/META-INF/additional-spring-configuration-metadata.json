@@ -1,0 +1,147 @@
+{"properties": [
+  {
+    "name": "legacy.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'legacy.datasource.url'"
+  },
+  {
+    "name": "legacy.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'legacy.datasource.username'"
+  },
+  {
+    "name": "legacy.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'legacy.datasource.password'"
+  },
+  {
+    "name": "legacy.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'legacy.datasource.driver-class-name'"
+  },
+  {
+    "name": "legacy.datasource.hikari.connection-test-query",
+    "type": "java.lang.String",
+    "description": "A description for 'legacy.datasource.hikari.connection-test-query'"
+  },
+  {
+    "name": "viatico.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'viatico.datasource.url'"
+  },
+  {
+    "name": "viatico.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'viatico.datasource.username'"
+  },
+  {
+    "name": "viatico.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'viatico.datasource.password'"
+  },
+  {
+    "name": "viatico.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'viatico.datasource.driver-class-name'"
+  },
+  {
+    "name": "viatico.datasource.hikari.connection-test-query",
+    "type": "java.lang.String",
+    "description": "A description for 'viatico.datasource.hikari.connection-test-query'"
+  },
+  {
+    "name": "remune.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'remune.datasource.url'"
+  },
+  {
+    "name": "remune.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'remune.datasource.username'"
+  },
+  {
+    "name": "remune.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'remune.datasource.driver-class-name'"
+  },
+  {
+    "name": "remune.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'remune.datasource.password'"
+  },
+  {
+    "name": "remune.datasource.hikari.connection-test-query",
+    "type": "java.lang.String",
+    "description": "A description for 'remune.datasource.hikari.connection-test-query'"
+  },
+  {
+    "name": "spring.remune.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.remune.datasource.url'"
+  },
+  {
+    "name": "spring.remune.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.remune.datasource.username'"
+  },
+  {
+    "name": "spring.remune.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.remune.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.remune.datasource.hikari.connection-test-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.remune.datasource.hikari.connection-test-query'"
+  },
+  {
+    "name": "spring.remune.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.remune.datasource.password'"
+  },
+  {
+    "name": "spring.viatico.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.viatico.datasource.url'"
+  },
+  {
+    "name": "spring.viatico.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.viatico.datasource.username'"
+  },
+  {
+    "name": "spring.viatico.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.viatico.datasource.password'"
+  },
+  {
+    "name": "spring.viatico.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.viatico.datasource.driver-class-name'"
+  },
+  {
+    "name": "spring.viatico.datasource.hikari.connection-test-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.viatico.datasource.hikari.connection-test-query'"
+  },
+  {
+    "name": "spring.spring.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.spring.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "r.munejpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'r.munejpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "viatico.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'viatico.jpa.hibernate.ddl-auto'"
+  },
+  {
+    "name": "remune.jpa.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'remune.jpa.hibernate.ddl-auto'"
+  }
+]}
