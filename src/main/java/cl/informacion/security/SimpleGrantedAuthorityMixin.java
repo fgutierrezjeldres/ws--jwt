@@ -6,6 +6,6 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public abstract class SimpleGrantedAuthorityMixin {
 	
 	@JsonCreator
-	public SimpleGrantedAuthorityMixin(@JsonProperty("authority") String rol) {}
+	protected SimpleGrantedAuthorityMixin(@JsonProperty("authority") String rol) {}
 
 }
